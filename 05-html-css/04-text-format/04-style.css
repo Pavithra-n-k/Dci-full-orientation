@@ -1,0 +1,30 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+div {
+  border: 3px black;
+}
+.text-format {
+  /* TEXT ALIGN */
+  text-align: left;
+  /* text-align: right;
+  text-align: center; */
+
+  /* TEXT DECORATION */
+  text-decoration: underline;
+  /* text-decoration: overline;
+  text-decoration: line-through; */
+
+  /* TEXT TRANSFORM */
+  text-transform: capitalize;
+  /* text-transform: lowercase;
+  text-transform: uppercase; */
+
+  /* TEXT SPACING */
+  word-spacing: 5px;
+  /* letter-spacing: 3px; */
+
+  /* TEXT SHADOW */
+  text-shadow: 5px 5px 5px rgb(126, 126, 126);
+}

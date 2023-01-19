@@ -1,0 +1,40 @@
+h1 {
+  color: violet;
+  font-size: 33px;
+  font-family: sans-serif;
+}
+
+/* Tag Selektor */
+h2 {
+  color: violet;
+}
+p {
+  color: indigo;
+}
+/* ID Selektor */
+/*ID's can be declare with an "id" attribute in the html tag in the css we can access id's with hashtag "#",
+then the name of the id ID names always with small letters, you can separate word with a dash
+ID's can only be used once every html element can have only one ID */
+#blue-heading {
+  color: blue;
+  font-size: 33px;
+}
+#green-para {
+  color: green;
+  font-weight: bold;
+}
+
+/* Class Selektor */
+.yellow-heading {
+  color: yellow;
+}
+.italic-text {
+  font-style: italic;
+}
+.orange-heading {
+  color: orange;
+}
+.red-para {
+  color: red;
+  font-style: italic;
+}

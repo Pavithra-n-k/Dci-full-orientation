@@ -1,0 +1,10 @@
+3-CSS-Basics
+Due tomorrow at 22:59
+Instructions
+Create a file named index.html​ under the new folder.
+
+This file should include the basic HTML structure (boilerplate) (with the ! shortcut).
+Add 3 sections and add 2 paragraphs inside each section.
+Create a file named style.css inside the 3-CSS-Basics folder.
+Link the CSS file to your HTML file in the head of the HTML.
+The second paragraph from each section should have a different text color than the first paragraph.

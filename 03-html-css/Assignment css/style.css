@@ -1,0 +1,28 @@
+.Bold {
+  font-weight: bold;
+  font-size: 25px;
+  color: rgb(63, 25, 25);
+}
+.c1 {
+  color: brown;
+}
+.c2 {
+  color: rgb(124, 78, 78);
+}
+.it1 {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+}
+.c3 {
+  color: chartreuse;
+}
+.c4 {
+  color: red;
+}
+.c5 {
+  color: chocolate;
+}
+.c6 {
+  color: royalblue;
+}

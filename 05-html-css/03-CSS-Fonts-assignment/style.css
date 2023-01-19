@@ -1,0 +1,40 @@
+section {
+  border: 2px solid grey;
+}
+
+.g-font-01 {
+  font-family: "Roboto Serif", serif;
+}
+.g-font-01 h2 {
+  font-family: "Roboto Serif", serif;
+  font-weight: 500;
+  font-style: italic;
+  font-weight: bold;
+  color: crimson;
+}
+
+.g-font-02 {
+  font-family: "Roboto Mono", monospace;
+}
+.g-font-02 h2 {
+  font-family: "Roboto Mono", monospace;
+  font-weight: 700;
+  font-style: italic;
+  font-weight: bold;
+  color: blue;
+}
+
+.g-font-03 {
+  font-family: fantasy;
+}
+
+.g-font-03 h2 {
+  font-family: fantasy;
+  font-weight: 900;
+  font-style: italic;
+  font-weight: bold;
+  color: rgb(31, 212, 155);
+}
+.section {
+  border: 1px solid black;
+}
